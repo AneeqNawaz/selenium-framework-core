@@ -140,8 +140,8 @@ These instructions let you run Selenium and Allure natively without Docker.
 #### 🧩 1. Clone the repository
 Open your terminal (or PowerShell on Windows):
 ```
-git clone 
-cd 
+git clone https://github.com/AneeqNawaz/selenium-framework-core.git
+cd selenium-framework-core
 ```
 This downloads the project to your computer and navigates inside the folder.
 
@@ -243,8 +243,6 @@ GitHub workflow automatically:
 - 📊 Generates Allure report
 - 🌍 Publishes to GitHub Pages
 - 📌 Public Allure Report URL
-
-👉 https://your-github-username.github.io/INSIDER-AUTOMATION
 
 ----
 
