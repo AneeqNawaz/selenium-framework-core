@@ -1,0 +1,128 @@
+{
+  "lifeAtInsider": {
+    "title": "Life at Insider One",
+    "subtitle": "For those who expect the unexpected. Are you ready to play bigger?",
+    "expectedImageCount": 14
+  },
+  "teams": {
+    "title": "Explore open roles",
+    "subtitle": "Discover our teams, making the world’s marketing and customer engagement teams unstoppable",
+    "teams": [
+      {
+        "name": "Customer Success",
+        "description": "Partner with the marketers behind the growth of some of the world’s most beloved brands.",
+        "openPositionsText": "29 Open Positions",
+        "url": "https://jobs.lever.co/insiderone?team=Customer%20Success"
+      },
+      {
+        "name": "Sales",
+        "description": "Never take no for an answer. Build relationships and help our customers get what they need in a fun and fast competitive culture.",
+        "openPositionsText": "62 Open Positions",
+        "url": "https://jobs.lever.co/insiderone?team=Sales"
+      },
+      {
+        "name": "Product & Engineering",
+        "description": "Looking for a thrill? Build game-changing products in a fast-paced growth environment with creative and curious minds.",
+        "openPositionsText": "7 Open Positions",
+        "url": "https://jobs.lever.co/insiderone?team=Product%20Management"
+      },
+      {
+        "name": "Finance & Business Support",
+        "description": "Do more than crunch numbers. Paint the picture of Insider’s performance across the world and influence the decisions that drive our future.",
+        "openPositionsText": "11 Open Positions",
+        "url": "https://jobs.lever.co/insiderone?team=Finance%20%26%20Business%20Support"
+      },
+      {
+        "name": "Marketing",
+        "description": "From data junkies, designers, strategists, to storytellers, we’re the brand evangelists championing customer success and inspiring marketers from global brands to grow.",
+        "openPositionsText": "9 Open Positions",
+        "url": "https://jobs.lever.co/insiderone?team=Marketing%20and%20Communications"
+      },
+      {
+        "name": "CEO’s Executive Office",
+        "description": "One-of-a-kind experiences, high-powered conversations, and first-ever initiatives, if you thrive on the variety, you'll never have an ordinary day in the CEO's corner.",
+        "openPositionsText": "0 Open Positions",
+        "url": "https://jobs.lever.co/insiderone"
+      },
+      {
+        "name": "Purchasing & Operations",
+        "description": "Excellence is a habit. As the guardians of happiness, our Operations team is always looking for ways to make our journeys at InsiderOne smoother.",
+        "openPositionsText": "2 Open Positions",
+        "url": "https://jobs.lever.co/insiderone?team=Operations"
+      },
+      {
+        "name": "People and Culture",
+        "description": "We’re not HR. Our job isn’t screening talent for open positions. Our mission is to build a change movement led by talented and caring people from every corner of the world.",
+        "openPositionsText": "4 Open Positions",
+        "url": "https://jobs.lever.co/insiderone?team=Human%20Resources"
+      },
+      {
+        "name": "Business Intelligence",
+        "description": "Deep thinkers. Dashboard commanders. Our Business Intelligence team dives deep into data to spot patterns and uncover opportunities to improve the way we tell stories.",
+        "openPositionsText": "2 Open Positions",
+        "url": "https://jobs.lever.co/insiderone?team=Business%20Development"
+      },
+      {
+        "name": "Security Engineering",
+        "description": "Security is at the foundation of customers’ trust in Insider. Oversee security and compliance and explore new ways to protect what matters most: people.",
+        "openPositionsText": "0 Open Positions",
+        "url": "https://jobs.lever.co/insiderone"
+      },
+      {
+        "name": "Partnership",
+        "description": "Acquire, develop, and grow our partner network with digital agencies, technology providers, and consultancies. Share and radically redefine your digital expertise with others who are passionate about helping our partners succeed.",
+        "openPositionsText": "0 Open Positions",
+        "url": "https://jobs.lever.co/insiderone"
+      },
+      {
+        "name": "Quality Assurance",
+        "description": "Never miss a thing? Obsess over every little detail? Our Q&A team is committed to testing everything we build to ensure it’s flawless for our customers (and theirs).",
+        "openPositionsText": "5 Open Positions",
+        "url": "https://jobs.lever.co/insiderone?team=Quality%20Assurance"
+      },
+      {
+        "name": "Mobile Business Unit",
+        "description": "Constant innovation, one step ahead of the game, and exceeding user expectations are our rallying points on our way to building the top mobile marketing platform in the world.",
+        "openPositionsText": "0 Open Positions",
+        "url": "https://jobs.lever.co/insiderone"
+      },
+      {
+        "name": "Partner Support Development",
+        "description": "Meet the creative problem solvers behind our success stories. Our Partner Support Development team helps customers see where they are and guides them to where they dream of being.",
+        "openPositionsText": "30 Open Positions",
+        "url": "https://jobs.lever.co/insiderone?team=Customer%20Success"
+      },
+      {
+        "name": "Product Design",
+        "description": "Are you a problem-solving architect who is equally passionate about customer experience? Our Product Design team isn’t tied down to what came before, they’ve got their eyes on what’s next.",
+        "openPositionsText": "0 Open Positions",
+        "url": "https://jobs.lever.co/insiderone"
+      }
+    ]
+  },
+  "locations": {
+    "title": "Our locations",
+    "subtitle": "Explore our 30+ offices across the world, home to 1,500+ Insiders",
+    "expectedLocationsCount": 30,
+    "locationsList": [
+      {
+        "name": "New York",
+        "address": "Insider, 135 Madison Ave, New York, NY, 10016, United States",
+        "email": "usteam@useinsider.com",
+        "mapsUrl": "https://goo.gl/maps/fFwzUobagzcyeNZeA"
+      },
+      {
+        "name": "San Francisco",
+        "address": "Insider, 3rd St, San Francisco, CA 94158, United States",
+        "email": "usteam@useinsider.com",
+        "mapsUrl": "https://maps.app.goo.gl/xtVZD9wQ83AJCywx9"
+      },
+      {
+        "name":"Toronto",
+        "address":"40 King St W 41st Floor, Toronto, ON M5H 3Y2, Canada",
+        "email":"",
+        "mapsUrl":"https://maps.app.goo.gl/RGNMwDaQF17YjGDv6"
+      }
+    ]
+  }
+}

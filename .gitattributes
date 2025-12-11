@@ -1,0 +1,17 @@
+# Ensure consistent line endings
+* text=auto eol=lf
+
+# Treat Java files as text
+*.java text diff
+
+# Treat XML files as text
+*.xml text diff
+
+# Treat shell scripts as text with LF endings
+*.sh text eol=lf
+
+# Mark binaries
+*.jar binary
+*.png binary
+*.jpg binary
+*.zip binary

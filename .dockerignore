@@ -1,0 +1,25 @@
+# Maven build outputs
+target/
+dependency-reduced-pom.xml
+
+# Allure
+allure-results/
+allure-report/
+
+# IDE configs
+.idea/
+.vscode/
+*.iml
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/

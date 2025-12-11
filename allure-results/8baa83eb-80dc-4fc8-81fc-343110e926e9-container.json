@@ -1,0 +1,1 @@
+{"uuid":"8baa83eb-80dc-4fc8-81fc-343110e926e9","name":"com.insider.base.BaseTest.setUp","children":["586bf351-252d-41e5-8281-b1131b019585"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1765437832870,"stop":1765437834143}],"afters":[],"start":1765437832870,"stop":1765437834143}

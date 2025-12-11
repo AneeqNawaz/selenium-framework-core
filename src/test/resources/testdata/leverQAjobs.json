@@ -1,0 +1,19 @@
+{
+  "listingUrl": "https://jobs.lever.co/insiderone?team=Quality%20Assurance",
+  "postingGroupTitle": "QUALITY ASSURANCE",
+  "departmentContains": "Quality Assurance",
+  "workTypeContains": "Remote",
+  "expectedInitialJobsCount": 5,
+  "locationFlows": [
+    {
+      "name": "istanbul-turkiye",
+      "locationFilterText": "Istanbul, Turkiye",
+      "locationShouldContain": "ISTANBUL, TURKIYE"
+    },
+    {
+      "name": "berlin",
+      "locationFilterText": "Berlin, Germany",
+      "locationShouldContain": "BERLIN, GERMANY"
+    }
+  ]
+}
